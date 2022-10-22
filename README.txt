@@ -24,3 +24,4 @@ Python-кода наверное сойдет.
 LuaIndicators - подкаталог из ПО QUIK с Lua-скриптами для обмена с Python
 microhttp - DLL для Lua, добавляющая возможность слать из него http-запросы
 microtrader - незавершенный пока проект на Python
+ 
