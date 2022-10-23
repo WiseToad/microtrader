@@ -9,7 +9,7 @@ Python-часть проекта уже умеет делать потокову
 #### Каталоги проекта:  
 - [LuaIndicators](https://github.com/WiseToad/microtrader/tree/main/LuaIndicators) - Lua-скрипты, выступающие звеном при обмене данными с Python-подсистемой.  
 Подкладываются в каталог установки ПО QUIK.  
-- [microhttp](https://github.com/WiseToad/microtrader/tree/main/microhttp) - расширение для Lua, собирающееся в DLL, добавляющую возможность слать http-запросы из Lua-скрипта.  
+- [microhttp](https://github.com/WiseToad/microtrader/tree/main/microhttp) - расширение для Lua, собирающееся в DLL, которая добавляет возможность слать http-запросы из Lua-скрипта.  
 Результат сборки (DLL) также подкладывается в каталог установки ПО QUIK.  
 - [microtrader](https://github.com/WiseToad/microtrader/tree/main/microtrader) - незавершенный пока проект на Python, ядро всей системы.  
 Где будет лежать, неважно. Достаточно запустить `main.py`, который тут же начнет обрабатывать входящие REST-запросы.
